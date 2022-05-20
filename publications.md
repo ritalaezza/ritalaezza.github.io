@@ -6,3 +6,5 @@ permalink: /publications/
 
 {{ page.title }}
 ================
+
+{% bibliography %}
