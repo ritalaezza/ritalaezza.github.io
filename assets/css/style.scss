@@ -1,0 +1,49 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+.wrapper {
+  width:1024px;
+  margin:0 auto;
+}
+
+.profileImg {
+  border-radius: 50%;
+  height: 100%;
+  width: auto;
+  max-width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.iconImg {
+  height: 32px;
+  width: auto;
+  padding: 6px 6px 6px 6px;
+}
+
+.headerP{
+   margin:0
+}
+
+p {
+  margin:0 0 20px;
+}
+
+img:not(.profileImg){
+    max-width: 100%;
+}
+
+section {
+  width:624px;
+  float:center;
+  text-align:justify;
+  padding-bottom:50px;
+}
+
+#social-media {
+  text-align: center;
+}

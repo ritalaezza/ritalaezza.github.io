@@ -1,0 +1,23 @@
+email:
+  id: 'laezza@chalmers.se'
+  href: 'mailto:'
+  title: 'Email'
+  icon: 'assets/icons/email.png'
+
+scholar:
+  id: 'Zj87JeIAAAAJ'
+  href: 'https://scholar.google.com/citations?'
+  title: 'Scholar'
+  icon: 'assets/icons/scholar.png'
+
+github:
+  id: 'ritalaezza'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  icon: 'assets/icons/github.png'
+
+twitter:
+  id: 'ritalaezza'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  icon: 'assets/icons/twitter.png'
