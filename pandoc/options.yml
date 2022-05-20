@@ -2,7 +2,7 @@ verbosity: INFO
 #from: bibtex
 # to: markdown_strict
 # bibliography: references.bib
-# csl: ieee.csl
+csl: ieee.csl
 # citeproc: true
 include-in-header:
   - header.md
