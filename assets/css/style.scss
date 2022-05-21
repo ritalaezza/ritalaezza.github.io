@@ -5,8 +5,8 @@
 
 
 .wrapper {
-  width:1024px;
-  margin:0 auto;
+  width: 1024px;
+  margin: 0 auto;
 }
 
 .profileImg {
@@ -26,11 +26,11 @@
 }
 
 .headerP{
-   margin:0
+   margin: 0
 }
 
 p {
-  margin:0 0 20px;
+  margin: 0 0 20px;
 }
 
 img:not(.profileImg){
@@ -38,10 +38,11 @@ img:not(.profileImg){
 }
 
 section {
-  width:624px;
-  float:center;
-  text-align:justify;
-  padding-bottom:50px;
+  width: auto;
+  max-width: 624px;
+  float: center;
+  text-align: justify;
+  padding-bottom: 50px;
 }
 
 #social-media {
