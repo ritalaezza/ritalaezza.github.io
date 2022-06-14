@@ -6,8 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/icons/favicon-32x32.png" | relative_url }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/icons/favicon-16x16.png" | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -23,19 +23,17 @@
         {% endif %}
 
         {% if site.data.social-media %}
-            {% include social-media-links.html %}
+          {% include social-media-links.html %}
         {% endif %}
 
-
         <p class="paragraph headerP"><b>Index:</b>
-        {% include navigation.html %}
+          {% include navigation.html %}
         </p>
-
       </header>
 
       <section>
 
-      {{ content }}
+        {{ content }}
 
       </section>
 
