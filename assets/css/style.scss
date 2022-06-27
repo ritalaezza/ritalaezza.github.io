@@ -49,5 +49,11 @@ section {
 }
 
 .csl-right-inline {
-  width: auto;
+  margin: inherit;
+  display: inline;
+}
+
+.csl-left-margin{
+  margin: inherit;
+  display: inline;
 }
