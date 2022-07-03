@@ -13,7 +13,7 @@ I started my graduate studies in February, 2019 after working for a little over 
 
 ## Project Description
 
-Modern robotic applications require handling of deformable objects. In industrial settings, a multitude of deformable objects is encountered, ranging from foams and padding of variable stiffness to plastic parts that need to be snapped into a fixture, etc. Similarly, there are numerous potential applications of deformable object manipulations in fields ranging from agriculture to medicine such as robotic surgery. The main goal of my research project is to deal with the manipulation of deformable objects by combining i) data-driven modeling of robot-object interaction based on Deep Neural Networks and vision/force data, and ii) design of control policies based on Reinforcement Learning principles.
+Modern robotic applications require handling of deformable objects. In industrial settings, a multitude of deformable objects are handled on a daily basis, ranging from *linear* objects such as cables and wires that have to be installed on electronic devices; *planar* objects like sheets of metal can be cut and molded; to *volumetric* objects made for example foam materials which can to be applied as padding for insulation purposes. Outside industrial settings, there are numerous other potential applications of deformable object manipulation in fields ranging from agriculture to medicine. The main goal of my research project is to address robotic manipulation problems involving deformable objects by combining i) data-driven modeling of robot-object interaction based on Deep Neural Networks and vision/force data, and ii) design of control policies based on Reinforcement Learning principles.
 
 ### Supervisors
 

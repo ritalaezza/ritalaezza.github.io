@@ -16,6 +16,12 @@ github:
   title: 'GitHub'
   icon: 'assets/icons/github.png'
 
+linkedin:
+  id: 'ritalaezza'
+  href: 'https://www.linkedin.com/in/rita-laezza/'
+  title: 'LinkedIn'
+  icon: 'assets/icons/linkedin.png'
+
 twitter:
   id: 'ritalaezza'
   href: 'https://www.twitter.com/'
