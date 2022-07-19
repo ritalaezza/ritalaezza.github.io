@@ -181,7 +181,7 @@
             <group delimiter=", ">
               <group delimiter=" ">
                 <text term="in"/>
-                <text variable="container-title" font-style="italic"/>
+                <text variable="container-title" font-style="italic" text-case="title"/>
               </group>
               <text variable="event-place"/>
             </group>
