@@ -12,8 +12,8 @@ nocite: '@*'
 <span class="csl-left-margin">\[1\] </span><span
 class="csl-right-inline">G. A. Waltersson, R. Laezza, and Y.
 Karayiannidis, “Planning and control for cable-routing with dual-arm
-robot,” in *2022 International Conference on Robotics and Automation
-(ICRA)*, 2022, pp. 1046–1052. doi:
+robot,” in *2022 IEEE International Conference on Robotics and
+Automation (ICRA)*, 2022, pp. 1046–1052. doi:
 [10.1109/ICRA46639.2022.9811765](https://doi.org/10.1109/ICRA46639.2022.9811765).</span>
 
 <span class="csl-left-margin">\[2\] </span><span
