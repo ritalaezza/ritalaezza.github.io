@@ -1,8 +1,9 @@
+to: markdown_strict
 verbosity: INFO
-# citeproc: true
-# from: bibtex
-# to: markdown_strict
-# bibliography: references.bib
+standalone: true
+citeproc: true
+bibliography:
+- references.bib
 csl: ieee.csl
 include-in-header:
   - header.md

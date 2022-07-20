@@ -1,4 +1,7 @@
 #!/bin/bash
 # This program uses pandoc to automatically generate the publications markdown
 
-pandoc -t markdown_strict --citeproc --standalone test_citeproc.md -o ../publications.md --defaults options.yml
+# Specify a set of default option settings: -d FILE, --defaults=FILE
+# FILE is a YAML file whose fields correspond to command-line option settings.
+
+pandoc citeproc.md -d options.yml -o ../publications.md
