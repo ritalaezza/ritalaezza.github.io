@@ -13,7 +13,7 @@ I started my graduate studies in February, 2019 after working for a little over 
 
 ## Project Description
 
-Modern robotic applications require handling of deformable objects. In industrial settings, a multitude of deformable objects are handled on a daily basis, ranging from *linear* objects such as cables and wires that have to be installed on electronic devices; *planar* objects like sheets of metal can be cut and molded; to *volumetric* objects made for example of foam materials which can to be applied as padding for insulation purposes. Outside industrial settings, there are numerous other potential applications of deformable object manipulation in fields ranging from agriculture to medicine. The main goal of my research project is to address such robotic manipulation problems by combining (i) data-driven modeling of robot-object interaction based on Deep Neural Networks and vision/force data, and (ii) design of control policies based on Reinforcement Learning principles.
+Modern robotic applications require handling of deformable objects. In industrial settings, a multitude of deformable objects are handled on a daily basis, ranging from *linear* objects such as cables and wires that have to be installed on electronic devices; to *planar* objects like sheets of metal which can be cut and molded; to *volumetric* objects made for example of foam materials which can be applied as padding for insulation purposes. Outside industrial settings, there are numerous other potential applications of deformable object manipulation, in fields ranging from agriculture to medicine. The main goal of my research project is to address such robotic manipulation problems by combining (i) data-driven modeling of robot-object interaction based on Deep Neural Networks and vision/force data, and (ii) design of control policies based on Reinforcement Learning principles.
 
 ### Supervisors
 
@@ -37,8 +37,8 @@ Co-Supervisor: [Florian T. Pokorny](http://www.csc.kth.se/~fpokorny/)
 
 ### Other Responsibilities
 
-- [2021/22] Member of the [E2 PhD Student Council](https://www.dokt.chs.chalmers.se/e2-phd-council/) (Mechatronics group rep)
-- [2022/23] Member of the [Chalmers Board of Graduate Students](https://www.dokt.chs.chalmers.se/board/) (Electrical Engineering department rep)
+- [2021/22] Member of the [E2 PhD Student Council](https://www.dokt.chs.chalmers.se/e2-phd-council/) (Mechatronics group representative)
+- [2022/23] Member of the [Chalmers Board of Graduate Students](https://www.dokt.chs.chalmers.se/board/) (Electrical Engineering department representative)
 
 ## Completed Education
 
