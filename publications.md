@@ -54,7 +54,7 @@ learning,” *IROS Workshop*, 2020, Available:
 
 <span class="csl-left-margin">\[1\] </span><span
 class="csl-right-inline">R. Laezza, *Deep neural networks for
-myoelectric pattern recognition-an implementation for multifunctional
+myoelectric pattern recognition - an implementation for multifunctional
 control*. MSc. Thesis: Chalmers University of Technology, 2018.
 Available:
 <https://odr.chalmers.se/bitstream/20.500.12380/254980/1/254980.pdf></span>
