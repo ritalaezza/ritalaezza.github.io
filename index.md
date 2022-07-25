@@ -50,4 +50,4 @@ Co-Supervisor: [Florian T. Pokorny](http://www.csc.kth.se/~fpokorny/)
 
 - 2019, [Reinforcement Learning Summer SCOOL](https://rlss.inria.fr/)
 - 2019, [RobotCraft (Robotics Craftsmanship International Academy)](https://robotcraft.ingeniarius.pt/)
-- 2018, [Responsible Robotics and AI – IDEA League Summer School](https://responsiblerobotics.org/event/idea-league-summer-school/)
+- 2017, [Responsible Robotics and AI – IDEA League Summer School](https://responsiblerobotics.org/event/idea-league-summer-school/)
