@@ -31,13 +31,13 @@ Co-Supervisor: [Florian T. Pokorny](http://www.csc.kth.se/~fpokorny/)
 
 ### Teaching Duties
 
-- [2021/2022] [Modelling and Control of Mechatronic Systems](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=24169&parsergrp=3)
-- [2020/2021/2022] [Linear Control System Design](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/Pages/SearchCourse.aspx?course_id=22002&parsergrp=3)
+- [2021; 2022] [Modelling and Control of Mechatronic Systems](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=24169&parsergrp=3)
+- [2020; 2021; 2022] [Linear Control System Design](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/Pages/SearchCourse.aspx?course_id=22002&parsergrp=3)
 - [2020] [Model Predictive Control](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=28600&parsergrp=3)
 
 ### Other Responsibilities
 
-- [2021/22] Member of the [E2 PhD Student Council](https://www.dokt.chs.chalmers.se/e2-phd-council/) (Mechatronics group representative)
+- [2021/22; 2022/23] Member of the [E2 PhD Student Council](https://www.dokt.chs.chalmers.se/e2-phd-council/) (Mechatronics group representative)
 - [2022/23] Member of the [Chalmers Board of Graduate Students](https://www.dokt.chs.chalmers.se/board/) (Electrical Engineering department representative)
 
 ## Completed Education
