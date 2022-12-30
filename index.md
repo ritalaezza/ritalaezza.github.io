@@ -1,5 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
@@ -22,6 +21,7 @@ Co-Supervisor: [Florian T. Pokorny](http://www.csc.kth.se/~fpokorny/)
 
 ### Graduate Courses
 
+- Autonomous Systems (WASP)
 - Deep learning and GANs (WASP)
 - Machine Learning in Optimal Control (Chalmers)
 - Learning Theory and Reinforcement Learning (WASP)
@@ -31,7 +31,7 @@ Co-Supervisor: [Florian T. Pokorny](http://www.csc.kth.se/~fpokorny/)
 
 ### Teaching Duties
 
-- [2021; 2022] [Modelling and Control of Mechatronic Systems](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=24169&parsergrp=3)
+- [2021; 2022; 2023] [Modelling and Control of Mechatronic Systems](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=24169&parsergrp=3)
 - [2020; 2021; 2022] [Linear Control System Design](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/Pages/SearchCourse.aspx?course_id=22002&parsergrp=3)
 - [2020] [Model Predictive Control](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=28600&parsergrp=3)
 
