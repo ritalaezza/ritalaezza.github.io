@@ -7,6 +7,14 @@ permalink: /publications/
 {{ page.title }}
 ================
 
+<span class="csl-left-margin">\[9\] </span><span
+class="csl-right-inline">F. Süberkrüb, R. Laezza, and Y. Karayiannidis,
+“Feel the tension: Manipulation of deformable linear objects in
+environments with fixtures using force information,” in *2022 IEEE/RSJ
+International Conference on Intelligent Robots and Systems (IROS)*,
+2022, pp. 11216–11222. doi:
+[10.1109/IROS47612.2022.9982065](https://doi.org/10.1109/IROS47612.2022.9982065).</span>
+
 <span class="csl-left-margin">\[8\] </span><span
 class="csl-right-inline">G. A. Waltersson, R. Laezza, and Y.
 Karayiannidis, “Planning and control for cable-routing with dual-arm
