@@ -31,9 +31,9 @@ Co-Supervisor: [Florian T. Pokorny](http://www.csc.kth.se/~fpokorny/)
 
 ### Teaching Duties
 
-- [2021; 2022; 2023] [Modelling and Control of Mechatronic Systems](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=24169&parsergrp=3)
-- [2020; 2021; 2022] [Linear Control System Design](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/Pages/SearchCourse.aspx?course_id=22002&parsergrp=3)
-- [2020] [Model Predictive Control](https://student.portal.chalmers.se/en/chalmersstudies/courseinformation/pages/searchcourse.aspx?course_id=28600&parsergrp=3)
+- [2021; 2022; 2023] [Modelling and Control of Mechatronic Systems](https://www.student.chalmers.se/sp/course?course_id=34155)
+- [2020; 2021; 2022] [Linear Control System Design](https://www.student.chalmers.se/sp/course?course_id=33841)
+- [2020] [Model Predictive Control](https://www.student.chalmers.se/sp/course?course_id=31022)
 
 ### Other Responsibilities
 
