@@ -7,6 +7,13 @@ permalink: /publications/
 {{ page.title }}
 ================
 
+<span class="csl-left-margin">\[10\] </span><span
+class="csl-right-inline">R. Laezza, M. Shetab-Bushehri, E. Ozgür, Y.
+Mezouar, and Y. Karayiannidis, “Offline reinforcement learning for shape
+control of deformable linear objects from limited real data,” *ICRA
+Workshop*, 2023, Available:
+<https://deformable-workshop.github.io/icra2023/></span>
+
 <span class="csl-left-margin">\[9\] </span><span
 class="csl-right-inline">F. Süberkrüb, R. Laezza, and Y. Karayiannidis,
 “Feel the tension: Manipulation of deformable linear objects in
