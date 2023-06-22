@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"$if(lang)$ lang="$lang$" xml:lang="$lang$"$endif$$if(dir)$ dir="$dir$"$endif$>
+<head>
+  <script src="{{ base.url | prepend: site.url }}/assets/js/publication_filter.js"></script>
+</head>
+<body>
+  $for(include-before)$
+    $include-before$
+  $endfor$
+  $if(title)$
+    <div id="$idprefix$header">
+      <h1 class="title">$title$</h1>
+      <fieldset>
+        <legend>Filter:</legend>
+        <div class="checkbox-group">
+          <input type="checkbox" id="theses" name="theses" checked>
+          <label for="theses">Theses</label>
+          <input type="checkbox" id="journals" name="journals" checked>
+          <label for="journals">Journals</label>
+          <input type="checkbox" id="conferences" name="conferences" checked>
+          <label for="journals">Conferences</label>
+          <input type="checkbox" id="workshops" name="workshops" checked>
+          <label for="workshops">Workshops</label>
+        </div>
+      </fieldset>
+      <p></p>
+    </div>
+  $endif$
+  $if(toc)$
+    <div id="$idprefix$TOC">
+      $if(toc-title)$
+        <h2 id="$idprefix$toc-title">$toc-title$</h2>
+      $endif$
+      $table-of-contents$
+    </div>
+  $endif$
+  $body$
+  $for(include-after)$
+    $include-after$
+  $endfor$
+</body>
+</html>

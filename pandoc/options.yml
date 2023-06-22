@@ -1,11 +1,7 @@
-to: markdown_strict
+to: html
 verbosity: INFO
 standalone: true
 citeproc: true
 bibliography:
 - references.bib
 csl: ieee.csl
-include-in-header:
-  - header.md
-include-before-body:
-  - title.md
