@@ -61,3 +61,42 @@ section {
 .csl-entry {
   margin-bottom: 10px;
 }
+
+/* Custom styles to override browser defaults */
+input[type="checkbox"] {
+  -webkit-appearance: none; /* Chrome, Safari */
+  -moz-appearance: none; /* Firefox */
+  appearance: none; /* Others */
+  background-image: url('../icons/unchecked.png'); /* URL of your custom image */
+  width: 15px;
+  height: 15px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  vertical-align: middle;
+  margin-bottom: 8px;
+}
+
+/* Custom styles for checked checkbox */
+input[type="checkbox"]:checked {
+  background-image: url('../icons/checkbox.png'); /* URL of your custom image */
+  width: 15px;
+  height: 15px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  vertical-align: middle;
+  margin-bottom: 8px;
+}
+
+/* Custom styles for checked checkbox */
+input[type="checkbox"]:disabled {
+  background-image: url('../icons/checkbox_disabled.png'); /* URL of your custom image */
+  width: 15px;
+  height: 15px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  vertical-align: middle;
+  margin-bottom: 8px;
+}
