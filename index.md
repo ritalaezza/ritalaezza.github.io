@@ -49,7 +49,6 @@ Co-Supervisor: [Florian T. Pokorny](http://www.csc.kth.se/~fpokorny/)
 ### Other education
 
 - 2023, [CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School - *Montreal, Canada*](https://dlrl.ca/)
-- (*the pandemic years...*)
 - 2019, [Reinforcement Learning Summer SCOOL - *Lille, France*](https://rlss.inria.fr/)
 - 2019, [RobotCraft (Robotics Craftsmanship International Academy) - *Coimbra, Portugal*](https://robotcraft.ingeniarius.pt/)
 - 2017, [Responsible Robotics and AI (IDEA League Summer School) - *Delft, Netherlands*](https://responsiblerobotics.org/event/idea-league-summer-school/)
