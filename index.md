@@ -23,16 +23,17 @@ Co-Supervisor: [Florian T. Pokorny](http://www.csc.kth.se/~fpokorny/)
 
 - Autonomous Systems (WASP)
 - Deep learning and GANs (WASP)
-- Machine Learning in Optimal Control (Chalmers)
 - Learning Theory and Reinforcement Learning (WASP)
 - Scalable Data Science and Distributed Machine Learning (WASP)
 - Graphical Models, Bayesian Learning and Statistical Relational learning (WASP)
 - Artificial Intelligence and Society: Ethical, Legal, Societal and Economical Aspects of AI (WASP)
+- Research on the Frontier Between Engineering and Health (GU)
+- Machine Learning in Optimal Control (Chalmers)
 
 ### Teaching Duties
 
 - [2021; 2022; 2023] [Modelling and Control of Mechatronic Systems](https://www.student.chalmers.se/sp/course?course_id=34155)
-- [2020; 2021; 2022] [Linear Control System Design](https://www.student.chalmers.se/sp/course?course_id=33841)
+- [2020; 2021; 2022; 2023] [Linear Control System Design](https://www.student.chalmers.se/sp/course?course_id=33841)
 - [2020] [Model Predictive Control](https://www.student.chalmers.se/sp/course?course_id=31022)
 
 ### Other Responsibilities
