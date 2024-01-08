@@ -16,7 +16,7 @@ Modern robotic applications require handling of deformable objects. In industria
 
 ### Supervisors
 
-Main Supervisor: [Yiannis Karayiannidis](http://yiannis.info/)<br/>
+Main Supervisor: [Yiannis Karayiannidis](https://portal.research.lu.se/en/persons/yiannis-karayiannidis/)<br/>
 Co-Supervisor: [Florian T. Pokorny](http://www.csc.kth.se/~fpokorny/)
 
 ### Graduate Courses
