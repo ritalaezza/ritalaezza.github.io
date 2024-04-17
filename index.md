@@ -16,7 +16,7 @@ Now that I have defended my PhD, I will continue in academia to pursue my origin
 
 ## Current Project Description
 
-I am currently involved in the AURORA project: Adaptive User-Centered Robotic Rehabilitation. The aim is to develop customisable rehabilitation equipment that optimizes patient recovery after injury, both through better data collection and eventually with active support of the phisioterapy exercises. 
+I am currently involved in the AURORA project: Adaptive User-Centered Robotic Rehabilitation. The aim is to develop customisable rehabilitation equipment that optimizes patient recovery after injury, both through better data collection and eventually with active support of the physiotherapy exercises. 
 
 ## PhD Project Description
 
