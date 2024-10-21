@@ -4,16 +4,16 @@
 layout: default
 ---
 
-# PhD Project Description
+# PhD project 
 
 Modern robotic applications require handling of deformable objects. In industrial settings, a multitude of deformable objects are handled on a daily basis, ranging from *linear* objects such as cables and wires that have to be installed on electronic devices; to *planar* objects like sheets of metal which can be cut and molded; to *volumetric* objects made for example of foam materials which can be applied as padding for insulation purposes. Outside industrial settings, there are numerous other potential applications of deformable object manipulation, in fields ranging from agriculture to medicine. The main goal of my research project is to address such robotic manipulation problems by combining (i) data-driven modeling of robot-object interaction based on Deep Neural Networks and vision/force data, and (ii) design of control policies based on Reinforcement Learning principles.
 
-## PhD Supervisors
+## PhD supervisors
 
 Main Supervisor: [Yiannis Karayiannidis](https://portal.research.lu.se/en/persons/yiannis-karayiannidis/)<br/>
 Co-Supervisor: [Florian T. Pokorny](http://www.csc.kth.se/~fpokorny/)
 
-## Graduate Courses
+## Graduate courses
 
 - Autonomous Systems (WASP)
 - Deep learning and GANs (WASP)
@@ -25,7 +25,7 @@ Co-Supervisor: [Florian T. Pokorny](http://www.csc.kth.se/~fpokorny/)
 - Machine Learning in Optimal Control (Chalmers)
 
 
-## Summer Schools
+## Summer schools
 
 - 2023, [CIFAR Deep Learning + Reinforcement Learning (DLRL) Summer School - *Montreal, Canada*](https://dlrl.ca/)
 - 2019, [Reinforcement Learning Summer SCOOL - *Lille, France*](https://rlss.inria.fr/)
